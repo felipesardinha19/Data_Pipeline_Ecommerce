@@ -34,6 +34,8 @@ total de vendas confiável
 produtos mais vendidos
 comportamento de compra
 
+---
+
 ## 🎯 OBJETIVO DO PROJETO
 
 Construir um pipeline de dados automatizado que centralize, trate e disponibilize os dados de forma confiável para análise.
